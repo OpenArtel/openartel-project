@@ -1,4 +1,4 @@
-# openartel-project
+# OpenArtel project
 
 ## [Kanban board](https://github.com/orgs/OpenArtel/projects/1)
 
